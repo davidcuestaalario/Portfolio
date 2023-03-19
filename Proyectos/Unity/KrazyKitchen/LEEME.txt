@@ -1,2 +1,3 @@
-Se trata del ejecutable de un proyecto de practicas.
-Para obtener el codigo contactenme.
+Se trata del ejecutable de un proyecto de practicas, Similar al OVERCOOKED
+El proyecto se ha realizado siguiendo los tutoriales del CodeMonkey:
+https://unitycodemonkey.com/kitchenchaoscourse.php
